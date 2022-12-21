@@ -1,6 +1,7 @@
 {
   "name": "open-react-template",
   "version": "0.1.0",
+  "homepage": "https://singhhp.github.io/Adieu-2k22",
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
@@ -14,9 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cruip/open-react-template.git"
+    "url": ""
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
