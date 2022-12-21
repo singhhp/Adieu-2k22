@@ -61,12 +61,12 @@ const Testimonial = ({
             <div className="tiles-item reveal-from-right" data-reveal-delay="200">
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
-                <h3>Adorn the Candels</h3>
+                <h3>Adorn the Candle</h3>
                 <p className="text-sm mb-0">
                     Date : 22nd December 2022. 
                       </p>
                       <p className="text-sm mb-0">
-                         Decorate the candels as per your creativity and make someone smile. Fill the form below !
+                         Decorate the candle as per your creativity and make someone smile. Fill the form below !
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
