@@ -1,7 +1,8 @@
 {
-  "name": "open-react-template",
-  "version": "0.1.0",
+  "name": "adieu-website",
   "homepage": "https://singhhp.github.io/Adieu-2k22",
+  "version": "0.1.0",
+  
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
@@ -13,10 +14,7 @@
     "react-scripts": "^3.4.1",
     "sass": "^1.49.7"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/singhhp/Adieu-2k22"
-  },
+ 
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
